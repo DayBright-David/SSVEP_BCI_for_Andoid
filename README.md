@@ -1,5 +1,7 @@
 # SSVEP_BCI_for_Andoid
 
+**Cplusplus contains the Windows release.**
+
 
 ## What is it?
 
