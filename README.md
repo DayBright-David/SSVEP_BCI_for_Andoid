@@ -4,7 +4,7 @@
 ## What is it?
 
 
-![1](Source/BCI_structure.jpg)
+![1](Source/BCI_structure.jpeg)
 
 
 ## Usage Locally
@@ -20,7 +20,7 @@
  
 * EEG and EOG based Computer Input Device: 
  
-![2](Source/Input_device.jpg)
+![2](Source/Input_device.jpeg)
 
 ***Slack1: Non-invasive Brain-computer Interface based Controlling of Computer Input Devices*** 
 
