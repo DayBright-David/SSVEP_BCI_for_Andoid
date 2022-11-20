@@ -2,13 +2,13 @@
 
 ## Pipeline
 
-![1](sources/interactive_interface_pipeline.jpg)
+![1](Source/interactive_interface_pipeline.jpg)
 
 ## Evaluate
 
-![2](sources/8_158Hz_60_fft.png)
+![2](Source/8_158Hz_60_fft.png)
 
-![3](sources/8_158Hz_large_60_fft.png)
+![3](Source/8_158Hz_large_60_fft.png)
 
 
 ## Dependency
