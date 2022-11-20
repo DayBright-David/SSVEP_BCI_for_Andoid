@@ -1,6 +1,6 @@
 # SSVEP_BCI_for_Andoid
 
-**"SSVEP_BCI_for_Android/Cplusplus" contains the Windows release.**
+**"SSVEP_BCI_for_Android/Cplusplus" contains the release for Windows.**
 
 
 ## What is it?
