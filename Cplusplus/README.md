@@ -50,7 +50,7 @@ The project is ongoing...
   5. Python 与 C++ 的进程通信 python之socket编程 https://www.cnblogs.com/aylin/p/5572104.html
   
 
-## Core Technology（Only for Shaoyang and Bo）
+## Core Technology
 
 ### 1. Time synchronization
 Ref: Lab Streaming Layer (LSL), https://github.com/sccn/labstreaminglayer
@@ -85,7 +85,7 @@ https://learnopengl-cn.github.io/04%20Advanced%20OpenGL/03%20Blending/
 4. wifi比蓝牙的带宽高，适合脑电
 5. 改DSI函数，实现新的硬件接入
 6. 端口号为NeuroScan的端口号
-(与陈雪松的讨论札记) 
+
 
 
 
