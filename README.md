@@ -5,8 +5,7 @@
 
 ## What is it?
 
-a portable and
-practical SSVEP-based BCI system <br>
+**A portable and practical SSVEP-based BCI system** <br>
 ![1](Source/BCI_structure.jpeg)
 
 
