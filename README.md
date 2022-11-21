@@ -35,7 +35,12 @@
 ### 3. CCA based Plug-and-Play BCI
  https://github.com/aaravindravi/PythonBox_OpenViBE_SSVEP_CCA/blob/master/4ClassCCA.py
 
-**For Android:** 
+## For Android
+ 
+### 1. How to communicate?
+
+ ![2](Source/sockets-tcp-flow.jpeg)
+ 
  
 
  Ref: 
